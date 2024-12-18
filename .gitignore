@@ -1,0 +1,6 @@
+output/*.exe
+output/*.txt
+!output/input.txt
+*.exe
+*.obj
+*.pdb
